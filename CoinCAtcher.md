@@ -1,4 +1,4 @@
-<p align="center"> # Privacy policy for CoinCATcher </p>
+<h1 align="center"> Privacy policy for CoinCATcher </h1>
 
 <p align="center">
   <img width='384px' height='384px' src="/logo.png?raw=true">
